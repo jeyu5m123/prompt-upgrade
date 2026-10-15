@@ -1,0 +1,15 @@
+{
+  "name": "prompt-upgrade",
+  "description": "Prompt Upgrade - a Claude Code mod that adds the /better command",
+  "owner": {
+    "name": "Jayde"
+  },
+  "plugins": [
+    {
+      "name": "prompt-upgrade",
+      "source": "./plugins/prompt-upgrade",
+      "description": "Adds /better: turn a rough prompt into a clear one before it is sent",
+      "keywords": ["prompt", "mod", "slash-command", "prompting"]
+    }
+  ]
+}
